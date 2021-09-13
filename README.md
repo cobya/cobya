@@ -1,4 +1,6 @@
-### Hi there 👋
+### ✨ About me
+
+I'm Coby Allred, a software engineer in Microsoft's Open Source Engineering team. We work on making sure that open source usage within Microsoft is secure and compliant while remaining easy to manage for developers.
 
 <!--
 **cobya/cobya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🖥️ X
 -->
