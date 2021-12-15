@@ -1,6 +1,6 @@
 ### ✨ About me
 
-I'm Coby Allred, a software engineer in Microsoft's Open Source Engineering team. We work on making sure that open source usage within Microsoft is secure and compliant while remaining easy to manage for developers.
+I'm Coby Allred, a software engineer in Microsoft's Open Source Engineering team. We work on making sure that open source usage within Microsoft is secure and compliant while remaining easy to manage for developers. Check out one of our newly released projects [microsoft/component-detection](https://github.com/microsoft/component-detection)!
 
 <!--
 **cobya/cobya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
