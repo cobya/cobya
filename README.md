@@ -1,6 +1,6 @@
 ### ✨ About me
 
-I'm Coby Allred, a software engineer in @Microsoft's Open Source Engineering team. We work on making sure that open source usage within Microsoft is secure and compliant while remaining easy to manage for developers in collaboration with @GitHub Advanced Security.
+I'm Coby Allred, a software engineer in [@Microsoft](https://github.com/microsoft)'s Open Source Engineering team. We work on making sure that open source usage within Microsoft is secure and compliant while remaining easy to manage for developers in collaboration with [@GitHub](https://github.com/github/) Advanced Security.
 
 ### 🖥️ Current projects
 - Maintaining [microsoft/component-detection](https://github.com/microsoft/component-detection), a dependency scanning tool to determine OSS usage in your source code
