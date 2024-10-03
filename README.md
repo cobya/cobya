@@ -1,6 +1,6 @@
 ### ✨ About me
 
-I'm Coby Allred, a software engineer in [@Microsoft](https://github.com/microsoft)'s Azure Artificats team. We work on making sure that open source and internal package dependencies can be accessed securely and easily through various commandline tools, Azure DevOps services, and other tooling 📦
+I'm Coby Allred, a software engineer in [@Microsoft](https://github.com/microsoft)'s Azure Artifacts team. We work on making sure that open source and internal package dependencies can be accessed securely and easily through various commandline tools, Azure DevOps services, and other tooling 📦
 
 ### 🖥️ Current projects
 - TBD!
