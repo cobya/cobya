@@ -1,24 +1,10 @@
 ### ✨ About me
 
-I'm Coby Allred, a software engineer in [@Microsoft](https://github.com/microsoft)'s Open Source Engineering team. We work on making sure that open source usage within Microsoft is secure and compliant while remaining easy to manage for developers in collaboration with [@GitHub](https://github.com/github/) Advanced Security. I recently started working on [Dependabot](https://github.com/dependabot)!
+I'm Coby Allred, a software engineer in [@Microsoft](https://github.com/microsoft)'s Azure Artificats team. We work on making sure that open source and internal package dependencies can be accessed securely and easily through various commandline tools, Azure DevOps services, and other tooling 📦
 
 ### 🖥️ Current projects
+- TBD!
+
+### 🪦 Former projects
 - Maintaining [microsoft/component-detection](https://github.com/microsoft/component-detection), a dependency scanning tool to determine OSS usage in your source code
 - Developing [GitHub Advanced Security for Azure DevOps](https://devblogs.microsoft.com/devops/integrate-security-into-your-developer-workflow-with-github-advanced-security-for-azure-devops/) to help organizations quickly respond to vulnerabilities across their software stack
-- Automatically updating dependencies via [Dependabot](https://github.com/dependabot)
-
-<!--
-**cobya/cobya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🖥️ X
--->
